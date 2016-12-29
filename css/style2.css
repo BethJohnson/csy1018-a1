@@ -1,0 +1,260 @@
+body {
+    font-family:'Cormorant Garamond', serif;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color: #CC6F7B;
+  }
+
+.nav-bar {
+      color: rgb(82, 33, 94);
+      font-weight: bold;
+      font-size: 1.25em;
+      background-color: #52215E;
+      color: #FFFFFF;
+      opacity: 0.5;
+      font-weight: bold;
+      font-size: 1.25em;
+      justify-content: space-between;
+      padding: 0.5em;
+      margin: 3em;
+
+  }
+
+.Title1{
+  color: #CC6F7B;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 0.5em;
+  display: flex;
+  margin-top: 3em;
+  justify-content:center;
+}
+
+.Title2{
+  color: #CC6F7B;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 0.5em;
+  display: flex;
+  margin-top: 3em;
+  justify-content:center;
+}
+
+.Title3{
+  color: #CC6F7B;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 0.5em;
+  display: flex;
+  margin-top: 3em;
+  justify-content:center;
+
+}
+
+.Title4{
+  color: #CC6F7B;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 0.5em;
+  display: flex;
+  margin-top: 3em;
+  justify-content:center;
+}
+
+.Title5{
+  color: #CC6F7B;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 0.5em;
+  display: flex;
+  margin-top: 3em;
+  justify-content:center;
+}
+
+.Title6{
+  color: #CC6F7B;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 0.5em;
+  display: flex;
+  margin-top: 3em;
+  justify-content:center;
+}
+
+.Title7{
+  color: #CC6F7B;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 0.5em;
+  display: flex;
+  justify-content:center;
+  margin-top: 3em;
+}
+
+.Description1{
+  color:  #52215E;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.Description2{
+  color:  #52215E;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.Description3{
+  color:  #52215E;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.Title8{
+  color: #CC6F7B;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 0.5em;
+  display: flex;
+  justify-content:center;
+  margin-top: 3em;
+}
+
+.Title9{
+  color: #CC6F7B;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 0.5em;
+  display: flex;
+  margin-top: 3em;
+  justify-content:center;
+}
+
+.Description4{
+  color:  #52215E;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.Description5{
+  color:  #52215E;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.Title10{
+  color: #CC6F7B;
+  font-size: 1.25em;
+  font-weight: bold;
+  padding: 0.5em;
+  display: flex;
+  margin-top: 3em;
+  justify-content:center;
+}
+
+.Description6{
+  color:  #52215E;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.Description7{
+  color:  #52215E;
+  font-size: 1em;
+  font-style: italic;
+}
+
+.Title11{
+  color: #CC6F7B;
+  font-size: 1.25em;
+  font-weight: bold;
+  padding: 0.5em;
+  display: flex;
+  margin-top: 3em;
+  justify-content:center;
+}
+
+.Title12{
+  color: #52215E;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: lighter;
+  padding: 0.5em;
+  display: flex;
+  margin-top: 3em;
+}
+
+.Title13{
+  color: #52215E;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: lighter;
+  padding: 0.5em;
+  display: flex;
+  margin-top: 3em;
+}
+
+.Form1{
+  border: solid #52215E 0.15em;
+}
+
+.Button1{
+  color: #52215E;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: lighter;
+  padding: 0.5em;
+  display: flex;
+  margin-top: 3em;
+}
+
+.Option1{
+  color: #52215E;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: lighter;
+  padding: 0.5em;
+  display: flex;
+  margin-top: 3em;
+}
+
+textarea{
+  padding: 0.5em;
+  display: flex;
+  margin-left: 3em;
+}
+
+.Box1{
+  padding: 0.5em;
+  display: flex;
+  margin-left: 3em;
+}
+
+.Button1{
+  padding: 0.5em;
+  display: flex;
+  justify-content: center;
+}
+
+li{
+  color: #52215E;
+  font-size: 1em;
+  font-style: italic;
+}
+
+ul{
+  color: #52215E;
+  font-size: 1em;
+  font-style: italic;
+}
+
+ol{
+  color: #52215E;
+  font-size: 1em;
+  font-style: italic;
+}
