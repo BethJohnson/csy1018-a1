@@ -41,7 +41,7 @@ body {
 }
 
 .Title3{
-  color:rgb(82, 35, 21) #CC6F7B;
+  color:#CC6F7B;
   font-size: 1.5em;
   font-weight: bold;
   padding: 0.5em;
@@ -257,4 +257,22 @@ ol{
   color: #52215E;
   font-size: 1em;
   font-style: italic;
+}
+
+.footer{
+  color: #CC6F7B;
+  font-weight:bold;
+  font-size: 1.25em;
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+}
+
+.header{
+  color: #CC6F7B;
+  font-weight:bold;
+  font-size: 1.25em;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
 }

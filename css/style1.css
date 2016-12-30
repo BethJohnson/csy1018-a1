@@ -23,9 +23,10 @@ body {
 }
 
 h1{
+  color: #CC6F7B;
   font-weight:lighter;
   font-size: 15em;
-  background-color:  #FFFFFF;
+  background-color: #FFFFFF;
   opacity: 0.9;
   position: fixed;
 }
@@ -34,4 +35,22 @@ img{
   margin-bottom: auto;
   margin-left: auto;
   padding: 2em;
+}
+
+.footer{
+  color: #CC6F7B;
+  font-weight:bold;
+  font-size: 1.25em;
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+}
+
+.header{
+  color: #CC6F7B;
+  font-weight:bold;
+  font-size: 1.25em;
+  display: flex;
+  justify-content: flex-end;
+  align-items:flex-start;
 }
