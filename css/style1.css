@@ -4,6 +4,8 @@ body {
     background-image: url("../img/hbackground.jpg");
     opacity: 0.7;
     margin: auto;
+    margin-top: auto;
+    margin-bottom: auto;
     background-position: top;
     background-size: cover;
     justify-content: center;
