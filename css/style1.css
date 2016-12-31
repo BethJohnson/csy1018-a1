@@ -1,7 +1,7 @@
 <!--Bethany Johnson
     id:16428602-->
 
-    body {
+body {
     font-family:'Cormorant Garamond', serif;
     display: flex;
     background-image: url("../img/hbackground.jpg");
@@ -10,7 +10,7 @@
     background-size: cover;
     justify-content: center;
     color: #CC6F7B;
-  }
+}
 
 .nav-bar{
   background-color: #FFFFFF;
