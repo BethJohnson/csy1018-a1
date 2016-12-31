@@ -35,13 +35,14 @@ h1{
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
-  padding: 1em;
+  padding: 0.5em;
 }
 
 .home{
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
+  opacity: 0.9;
 }
 .footer{
   color: #CC6F7B;
