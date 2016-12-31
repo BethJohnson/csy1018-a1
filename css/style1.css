@@ -31,12 +31,19 @@ h1{
   position: fixed;
 }
 
-img{
-  margin-bottom: auto;
-  margin-left: auto;
+.me{
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
   padding: 2em;
 }
 
+.home{
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 2em;
+}
 .footer{
   color: #CC6F7B;
   font-weight:bold;
