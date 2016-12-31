@@ -1,8 +1,6 @@
 body {
     font-family:'Cormorant Garamond', serif;
     display: flex;
-    margin-top: 50px;
-    margin-bottom: 50px;
     background-image: url("../img/hbackground.jpg");
     opacity: 0.7;
     background-position: top;
@@ -31,14 +29,10 @@ h1{
   position: fixed;
 }
 
-.me{
-  margin: 0.5em;
-}
-
 .home{
-  margin: 0.5em;
   opacity: 0.9;
 }
+
 .footer{
   color: #CC6F7B;
   font-weight:bold;
