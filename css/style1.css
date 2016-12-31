@@ -29,6 +29,9 @@ h1{
   position: fixed;
 }
 
+img{
+  margin: auto;
+}
 .footer{
   color: #CC6F7B;
   font-weight:bold;
