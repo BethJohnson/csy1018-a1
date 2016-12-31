@@ -32,14 +32,12 @@ h1{
 }
 
 .me{
-  display: flex;
-  justify-content: space-between;
+  margin: 0.5em;
   padding: 0.5em;
 }
 
 .home{
-  display: flex;
-  justify-content: space-between;
+  margin: 0.5em;
   padding: 0.5em;
   opacity: 0.9;
 }
