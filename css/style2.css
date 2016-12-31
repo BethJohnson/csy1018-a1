@@ -276,3 +276,9 @@ ol{
   justify-content: flex-end;
   align-items: flex-start;
 }
+
+.diary{
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
