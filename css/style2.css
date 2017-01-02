@@ -99,7 +99,7 @@ body {
   font-style: italic;
   display: flex;
   justify-content: flex-start;
-  align-content: space-between;
+  align-content: space-around;
 }
 
 .skills{
