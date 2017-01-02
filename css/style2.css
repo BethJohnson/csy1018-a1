@@ -1,3 +1,6 @@
+<!--Bethany Johnson
+    id:16428602-->
+
 body {
     font-family:'Cormorant Garamond', serif;
     margin-top: 1em;
@@ -36,7 +39,8 @@ body {
   padding: 0.5em;
   display: flex;
   margin-top: 3em;
-  justify-content:center;
+  justify-content:flex-start;
+  order: 1;
 }
 
 .Title3{
@@ -46,7 +50,8 @@ body {
   padding: 0.5em;
   display: flex;
   margin-top: 3em;
-  justify-content:center;
+  justify-content:flex-end;
+  order: 2;
 
 }
 
