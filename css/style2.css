@@ -282,3 +282,10 @@ ol{
   align-items: flex-start;
   margin-top: 0.5em;
 }
+
+.home{
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: 0.5em;
+}
