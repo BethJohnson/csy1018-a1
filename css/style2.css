@@ -1,6 +1,7 @@
 <!--Bethany Johnson
     id:16428602-->
 
+               <!--Section-General Body Code-->
 body {
     font-family:'Cormorant Garamond', serif;
     margin-top: 1em;
@@ -8,6 +9,7 @@ body {
     color: #CC6F7B;
 }
 
+               <!--Section-Navigation Bar Code-->
 .nav-bar {
       color: rgb(82, 33, 94);
       font-weight: bold;
@@ -22,7 +24,8 @@ body {
       margin: 3em;
   }
 
-.Title1{
+               <!--Section-Code For CV Page-->
+.personalinfo{
   color: #CC6F7B;
   font-size: 1.5em;
   font-weight: bold;
@@ -32,7 +35,16 @@ body {
   justify-content:center;
 }
 
-.Title2{
+.namelist{
+  color: #52215E;
+  font-size: 1em;
+  font-style: italic;
+  display: flex;
+  justify-content: flex-start;
+  align-content: space-between;
+}
+
+.education{
   color: #CC6F7B;
   font-size: 1.5em;
   font-weight: bold;
@@ -43,168 +55,167 @@ body {
   order: 1;
 }
 
-.Title3{
+.school{
+  color: #52215E;
+  font-size: 1em;
+  font-style: italic;
+  display: flex;
+  justify-content: flex-start;
+  align-content: space-between;
+}
+
+.relcoursework{
   color:#CC6F7B;
   font-size: 1.5em;
   font-weight: bold;
   padding: 0.5em;
   display: flex;
   margin-top: 3em;
-  justify-content:flex-end;
+  justify-content:flex-start;
   order: 2;
-
 }
 
-.Title4{
-  color: #CC6F7B;
-  font-size: 1.5em;
-  font-weight: bold;
-  padding: 0.5em;
-  display: flex;
-  margin-top: 3em;
-  justify-content:center;
-}
-
-.Title5{
-  color: #CC6F7B;
-  font-size: 1.5em;
-  font-weight: bold;
-  padding: 0.5em;
-  display: flex;
-  margin-top: 3em;
-  justify-content:center;
-}
-
-.Title6{
-  color: #CC6F7B;
-  font-size: 1.5em;
-  font-weight: bold;
-  padding: 0.5em;
-  display: flex;
-  margin-top: 3em;
-  justify-content:center;
-}
-
-.Title7{
-  color: #CC6F7B;
-  font-size: 1.5em;
-  font-weight: bold;
-  padding: 0.5em;
-  display: flex;
-  justify-content:center;
-  margin-top: 3em;
-}
-
-.Description1{
-  color:  #52215E;
-  font-size: 1em;
-  font-style: italic;
-  font-weight: lighter;
-}
-
-.Description2{
-  color:  #52215E;
-  font-size: 1em;
-  font-style: italic;
-  font-weight: lighter;
-}
-
-.Description3{
-  color:  #52215E;
-  font-size: 1em;
-  font-style: italic;
-  font-weight: lighter;
-}
-
-.Title8{
-  color: #CC6F7B;
-  font-size: 1.5em;
-  font-weight: bold;
-  padding: 0.5em;
-  display: flex;
-  justify-content:center;
-  margin-top: 3em;
-}
-
-.Title9{
-  color: #CC6F7B;
-  font-size: 1.5em;
-  font-weight: bold;
-  padding: 0.5em;
-  display: flex;
-  margin-top: 3em;
-  justify-content:center;
-}
-
-.Description4{
-  color:  #52215E;
-  font-size: 1em;
-  font-style: italic;
-  font-weight: lighter;
-}
-
-.Description5{
-  color:  #52215E;
-  font-size: 1em;
-  font-style: italic;
-  font-weight: lighter;
-}
-
-.Title10{
-  color: #CC6F7B;
-  font-size: 1.25em;
-  font-weight: bold;
-  padding: 0.5em;
-  display: flex;
-  margin-top: 3em;
-  justify-content:center;
-}
-
-.Description6{
-  color:  #52215E;
-  font-size: 1em;
-  font-style: italic;
-  font-weight: lighter;
-}
-
-.Description7{
-  color:  #52215E;
-  font-size: 1em;
-  font-style: italic;
-}
-
-.Title11{
-  color: #CC6F7B;
-  font-size: 1.25em;
-  font-weight: bold;
-  padding: 0.5em;
-  display: flex;
-  margin-top: 3em;
-  justify-content:center;
-}
-
-.Title12{
+.Coursework{
   color: #52215E;
   font-size: 1em;
   font-style: italic;
-  font-weight: lighter;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.prof{
+  color: #CC6F7B;
+  font-size: 1.5em;
+  font-weight: bold;
   padding: 0.5em;
   display: flex;
   margin-top: 3em;
+  justify-content:center;
 }
 
-.Title13{
+.logo{
   color: #52215E;
   font-size: 1em;
   font-style: italic;
-  font-weight: lighter;
+  display: flex;
+  justify-content: flex-start;
+  align-content: space-between;
+}
+
+.skills{
+  color: #CC6F7B;
+  font-size: 1.5em;
+  font-weight: bold;
   padding: 0.5em;
   display: flex;
   margin-top: 3em;
+  justify-content:center;
+}
+
+.design{
+  color: #52215E;
+  font-size: 1em;
+  font-style: italic;
+  display: flex;
+  justify-content: flex-start;
+  align-content: space-between;
+}
+
+.activities{
+  color: #CC6F7B;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 0.5em;
+  display: flex;
+  margin-top: 3em;
+  justify-content:center;
+}
+
+.work{
+  color: #52215E;
+  font-size: 1em;
+  font-style: italic;
+  display: flex;
+  justify-content: flex-start;
+  align-content: space-between;
+}
+
+               <!--Section-Code For Contact Page-->
+.contact{
+  color: #CC6F7B;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 0.5em;
+  display: flex;
+  justify-content:center;
+  margin-top: 3em;
+}
+
+.mobile{
+  color:  #52215E;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.home{
+  color:  #52215E;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.email{
+  color:  #52215E;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: lighter;
 }
 
 .Form1{
   border: solid #52215E 0.15em;
+}
+
+.note{
+  color: #CC6F7B;
+  font-size: 1.25em;
+  font-weight: bold;
+  padding: 0.5em;
+  display: flex;
+  margin-top: 3em;
+  justify-content:center;
+}
+
+.name{
+  color: #52215E;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: lighter;
+  padding: 0.5em;
+  display: flex;
+  margin-top: 3em;
+}
+
+.Box1{
+  padding: 0.5em;
+  display: flex;
+  margin-left: 3em;
+}
+
+.mind{
+  color: #52215E;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: lighter;
+  padding: 0.5em;
+  display: flex;
+  margin-top: 3em;
+}
+
+textarea{
+  padding: 0.5em;
+  display: flex;
+  margin-left: 3em;
 }
 
 .Button1{
@@ -227,77 +238,13 @@ body {
   margin-top: 3em;
 }
 
-textarea{
-  padding: 0.5em;
-  display: flex;
-  margin-left: 3em;
-}
-
-.Box1{
-  padding: 0.5em;
-  display: flex;
-  margin-left: 3em;
-}
-
-.Button1{
+.Button2{
   padding: 0.5em;
   display: flex;
   justify-content: center;
 }
 
-li{
-  color: #52215E;
-  font-size: 1em;
-  font-style: italic;
-}
-
-ul{
-  color: #52215E;
-  font-size: 1em;
-  font-style: italic;
-}
-
-ol{
-  color: #52215E;
-  font-size: 1em;
-  font-style: italic;
-}
-
-.School{
-  color: #52215E;
-  font-size: 1em;
-  font-style: italic;
-  display: flex;
-  justify-content: flex-start;
-  order: 1;
-}
-
-.Coursework{
-  color: #52215E;
-  font-size: 1em;
-  font-style: italic;
-  display: flex;
-  justify-content: flex-start;
-  order: 2;
-}
-
-.footer{
-  color: #CC6F7B;
-  font-weight:bold;
-  font-size: 1.25em;
-  display: flex;
-  justify-content: flex-end;
-  align-items: baseline;
-}
-
-.header{
-  color: #CC6F7B;
-  font-weight:bold;
-  font-size: 1.25em;
-  display: flex;
-  justify-content: flex-end;
-  align-items: flex-start;
-}
+                <!--Section-Code For Bio Page-->
 
 .diary{
   display: flex;
@@ -306,7 +253,86 @@ ol{
   margin-top: 0.5em;
 }
 
+.aboutme{
+  color: #CC6F7B;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 0.5em;
+  display: flex;
+  justify-content:center;
+  margin-top: 3em;
+}
+
+.abouttext{
+  color:  #52215E;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.mydegree{
+  color: #CC6F7B;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 0.5em;
+  display: flex;
+  margin-top: 3em;
+  justify-content:center;
+}
+
+.degreetext{
+  color:  #52215E;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.mywork{
+  color: #CC6F7B;
+  font-size: 1.25em;
+  font-weight: bold;
+  padding: 0.5em;
+  display: flex;
+  margin-top: 3em;
+  justify-content:center;
+}
+
+.mywork1{
+  color:  #52215E;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.mywork2{
+  color:  #52215E;
+  font-size: 1em;
+  font-style: italic;
+}
+                <!--Section-Code For Header and Footer-->
+.header{
+  color: #CC6F7B;
+  font-weight:bold;
+  font-size: 1em;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+
+.footer{
+  color: #CC6F7B;
+  font-weight:bold;
+  font-size: 1em;
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+}
+
+              <!--Section-Code For Home Link Icon-->
 .home{
+  color: #CC6F7B;
+  font-weight:bold;
+  font-size: 0.75em;
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;

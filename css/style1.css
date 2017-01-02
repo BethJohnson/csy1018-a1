@@ -1,6 +1,7 @@
 <!--Bethany Johnson
     id:16428602-->
 
+               <!--Section-General Body Code-->
 body {
     font-family:'Cormorant Garamond', serif;
     display: flex;
@@ -12,6 +13,7 @@ body {
     color: #CC6F7B;
 }
 
+               <!--Section-Navigation Code-->
 .nav-bar{
   background-color: #FFFFFF;
   color: #52215E ;
@@ -23,6 +25,7 @@ body {
 
 }
 
+               <!--Section-Text Code-->
 h1{
   color: #CC6F7B;
   font-weight:lighter;
@@ -33,15 +36,7 @@ h1{
   position: fixed;
 }
 
-.footer{
-  color: #CC6F7B;
-  font-weight:bold;
-  font-size: 1em;
-  display: flex;
-  justify-content: flex-end;
-  align-items: baseline;
-}
-
+              <!--Section-Header and Footer Code-->
 .header{
   color: #CC6F7B;
   font-weight:bold;
@@ -49,4 +44,13 @@ h1{
   display: flex;
   justify-content: flex-end;
   align-items:flex-start;
+}
+
+.footer{
+  color: #CC6F7B;
+  font-weight:bold;
+  font-size: 1em;
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
 }
