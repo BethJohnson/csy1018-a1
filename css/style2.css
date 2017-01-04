@@ -1,7 +1,4 @@
-<!--Bethany Johnson
-    id:16428602-->
 
-               <!--Section-General Body Code-->
 body {
     font-family:'Cormorant Garamond', serif;
     margin-top: 1em;
@@ -9,7 +6,7 @@ body {
     color: #CC6F7B;
 }
 
-               <!--Section-Navigation Bar Code-->
+
 .nav-bar {
       color: rgb(82, 33, 94);
       font-weight: bold;
@@ -24,7 +21,7 @@ body {
       margin: 3em;
   }
 
-               <!--Section-Code For CV Page-->
+
 .personalinfo{
   color: #CC6F7B;
   font-size: 1.5em;
@@ -140,7 +137,7 @@ body {
   align-content: space-between;
 }
 
-               <!--Section-Code For Contact Page-->
+
 .contact{
   color: #CC6F7B;
   font-size: 1.5em;
@@ -244,7 +241,7 @@ textarea{
   justify-content: center;
 }
 
-                <!--Section-Code For Bio Page-->
+
 
 .diary{
   display: flex;
@@ -309,7 +306,7 @@ textarea{
   font-size: 1em;
   font-style: italic;
 }
-                <!--Section-Code For Header and Footer-->
+
 .header{
   color: #CC6F7B;
   font-weight:bold;
@@ -328,7 +325,7 @@ textarea{
   align-items: baseline;
 }
 
-              <!--Section-Code For Home Link Icon-->
+        
 .home{
   color: #CC6F7B;
   font-weight:bold;
