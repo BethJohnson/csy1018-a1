@@ -45,6 +45,55 @@ body {
   flex-wrap: wrap;
 }
 
+div {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+  line-height: 100%;
+  text-align: center;
+}
+
+.div {
+  display: flex;
+  flex-direction: column;
+  flex: 1 0 auto;
+}
+
+.main {
+  padding: 1em;
+  background: rgb(187, 179, 135);
+  text-align: center;
+}
+
+.aside {
+  padding: 1em;
+  text-align: center;
+  background: rgb(224, 220, 199);
+}
+
+@media (max-width: 30em) {
+  .main {
+    flex: 1 0 auto;
+  }
+}
+
+@media (min-width: 30em) {
+  .nav {
+    display: block;
+  }
+  .div {
+    flex-direction: row;
+  }
+  .main {
+    flex: 1 1 auto;
+  }
+  
+  .aside {
+    width: 20%;
+  }
+}
+
 .education{
   color: #CC6F7B;
   font-size: 1.5em;
