@@ -43,19 +43,21 @@ h1 {
 div {
   position: absolute;
   left: 50%;
+  bottom: 50%;
+  right: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
 }
 
 @keyframes introduction {
   0% {
-    transform: scale(0.5);
+    transform: scale(0.25);
   }
   50% {
-    transform: scale(2);
+    transform: scale(5);
   }
   100% {
-    transform: scale(3.5);
+    transform: scale(0.75);
   }
 }
 
