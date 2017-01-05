@@ -38,9 +38,9 @@ h1 {
 
 div {
   position: absolute;
-  right: -25%;
-  top: 25%;
-  transform: translate(-25%, 25% );
+  right: -50%;
+  top: 50%;
+  transform: translate(-50%, 50% );
 }
 
 @keyframes introduction {
