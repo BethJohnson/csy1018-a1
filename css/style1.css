@@ -42,11 +42,11 @@ h1 {
 
 div {
   position: absolute;
-  left: 50%;
-  bottom: 50%;
-  right: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%, 50%, 50%);
+  left: 1em;
+  bottom: 1em;
+  right: 1em;
+  top: 1em;
+  transform: translate(1em, 1em, 1em, 1em );
 }
 
 @keyframes introduction {
