@@ -2,7 +2,7 @@
 body {
     font-family:'Cormorant Garamond', serif;
     display: flex;
-    background-image: url("../img/hbackground.jpg");
+    background-image: url("../img/background.jpg");
     background-repeat: no-repeat;
     opacity: 0.7;
     background-position: top;
@@ -40,8 +40,8 @@ div {
   position: absolute;
   transform: translate(-50%, 50% );
   display: flex;
-  justify-content: center;
   align-items: center;
+  margin-top: 20%;
 }
 
 @keyframes introduction {
