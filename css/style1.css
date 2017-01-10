@@ -26,10 +26,8 @@ body {
 
 h1 {
   color: #CC6F7B;
-  font-weight:lighter;
+  font-weight:bold;
   font-size: 5em;
-  background-color: #FFFFFF;
-  opacity: 0.9;
   margin-top: 1em;
   position:fixed;
   flex-wrap: wrap;
@@ -42,6 +40,7 @@ div {
   display: flex;
   align-items: center;
   margin-top: 20%;
+  margin-right: 10%;
 }
 
 @keyframes introduction {
