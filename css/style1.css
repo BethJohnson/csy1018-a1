@@ -32,7 +32,7 @@ h1 {
   position:fixed;
   flex-wrap: wrap;
   animation: introduction 5s linear infinite;
-  background: #52215E;
+  background: #E7CEED;
   opacity: 0.9;
 }
 
