@@ -38,8 +38,6 @@ h1 {
 
 div {
   position: absolute;
-  right: -50%;
-  top: 50%;
   transform: translate(-50%, 50% );
 }
 
@@ -54,7 +52,6 @@ div {
     transform: scale(1.5);
   }
 }
-
 
 .header{
   color: #CC6F7B;
