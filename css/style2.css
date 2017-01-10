@@ -79,7 +79,7 @@ body {
   flex-wrap: wrap;
 }
 
-.Coursework{
+.coursework{
   color: #52215E;
   font-size: 1em;
   font-style: italic;
@@ -147,7 +147,7 @@ body {
   font-style: italic;
   display: flex;
   justify-content: flex-start;
-  align-content: space-around;
+  align-content: space-between;
   flex-wrap: wrap;
 }
 
