@@ -29,15 +29,17 @@ body {
       display: flex;
       flex-direction: column;
       justify-content: flex-start;
+      color: #CC6F7B;
     }
   }
 
-  @media (min-width: 30em) and (max-width: 37em;) {
+  @media (max-width: 37em;) {
     .nav-bar {
       font-size: 0.4em;
       display: flex;
       flex-direction: column;
       justify-content: flex-start;
+      color: rgb(40, 31, 145);
     }
   }
 
