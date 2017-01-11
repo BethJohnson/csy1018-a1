@@ -10,9 +10,19 @@ body {
     justify-content: center;
     color: #CC6F7B;
 }
-@media query (min-device-width:240px) and (max-width:319) {
+
+@media (min-width: 37.5em) and (max-width: 56.25em) {
   .nav-bar{
-    font-size: 0.3em;
+    font-size: 0.5em;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+}
+
+@media (min-width: 30em) and (max-width: 37em;) {
+  .nav-bar {
+    font-size: 0.4em;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -28,6 +38,7 @@ body {
   padding: 1em;
   margin: 3em;
   flex-wrap: wrap;
+
 
 }
 
