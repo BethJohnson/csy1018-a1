@@ -104,7 +104,8 @@ body {
   font-size: 1em;
   font-style: italic;
   display: flex;
-  justify-content: flex-start;
+  flex-direction: column;
+  justify-content:flex-start;
   align-content: space-around;
   flex-wrap: wrap;
 }
@@ -146,6 +147,7 @@ body {
   font-size: 1em;
   font-style: italic;
   display: flex;
+  flex-direction: column;
   justify-content: flex-start;
   align-content: space-between;
   flex-wrap: wrap;
@@ -171,7 +173,7 @@ body {
   flex-wrap: wrap;
 }
 
-.home{
+.homenumber{
   color:  #52215E;
   font-size: 1em;
   font-style: italic;
