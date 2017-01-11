@@ -159,7 +159,8 @@ body {
   font-style: italic;
   padding: 0.5em;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
+  align-items: center;
   flex-wrap: wrap;
 }
 
