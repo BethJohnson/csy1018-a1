@@ -23,6 +23,23 @@ body {
       flex-wrap: wrap;
   }
 
+  @media (min-width: 37.5em) and (max-width: 56.25em) {
+    .nav-bar{
+      font-size: 0.5em;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+    }
+  }
+
+  @media (min-width: 30em) and (max-width: 37em;) {
+    .nav-bar {
+      font-size: 0.4em;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+    }
+  }
 
 .personalinfo{
   color: #CC6F7B;
@@ -100,8 +117,8 @@ body {
   color: #52215E;
   font-size: 1em;
   font-style: italic;
+  padding: 0.5em;
   display: flex;
-  flex-direction: column;
   justify-content:center;
 }
 
@@ -140,9 +157,10 @@ body {
   color: #52215E;
   font-size: 1em;
   font-style: italic;
+  padding: 0.5em;
   display: flex;
-  flex-direction: column;
   justify-content: center;
+  flex-wrap: wrap;
 }
 
 
