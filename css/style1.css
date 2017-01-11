@@ -10,7 +10,14 @@ body {
     justify-content: center;
     color: #CC6F7B;
 }
-
+@media query (min-device-width:240px) and (max-width:319) {
+  .nav-bar{
+    font-size: 0.9em;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+}
 
 .nav-bar{
   background-color: #FFFFFF;
