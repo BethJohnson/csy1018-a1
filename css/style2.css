@@ -40,8 +40,7 @@ body {
   font-size: 1em;
   font-style: italic;
   display: flex;
-  justify-content: flex-start;
-  align-content: space-between;
+  justify-content: center;
   flex-wrap: wrap;
 }
 
@@ -52,7 +51,7 @@ body {
   padding: 0.5em;
   display: flex;
   margin-top: 3em;
-  justify-content:flex-start;
+  justify-content:center;
   order: 1;
   flex-wrap: wrap;
 }
@@ -62,7 +61,7 @@ body {
   font-size: 1em;
   font-style: italic;
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   align-content: space-between;
   flex-wrap: wrap;
 }
@@ -84,7 +83,7 @@ body {
   font-size: 1em;
   font-style: italic;
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   flex-wrap: wrap;
 }
 
@@ -105,8 +104,7 @@ body {
   font-style: italic;
   display: flex;
   flex-direction: column;
-  justify-content:flex-start;
-  align-content: space-around;
+  justify-content:center;
   flex-wrap: wrap;
 }
 
@@ -126,8 +124,7 @@ body {
   font-size: 1em;
   font-style: italic;
   display: flex;
-  justify-content: flex-start;
-  align-content: space-between;
+  justify-content: center;
   flex-wrap: wrap;
 }
 
@@ -148,7 +145,7 @@ body {
   font-style: italic;
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
+  justify-content: center;
   align-content: space-between;
   flex-wrap: wrap;
 }
