@@ -12,7 +12,7 @@ body {
 }
 @media query (min-device-width:240px) and (max-width:319) {
   .nav-bar{
-    font-size: 0.5em;
+    font-size: 0.3em;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
