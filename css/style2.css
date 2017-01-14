@@ -23,9 +23,19 @@ body {
       flex-wrap: wrap;
   }
 
-  @media(max-width: 15em) {
+  @media (min-width: 1em) and (max-width: 15em) {
     .nav-bar{
       font-size: 0.7em;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      color: #CC6F7B;
+    }
+  }
+
+  @media (max-width: 15em;) {
+    .nav-bar{
+      font-size: 0.4em;
       display: flex;
       flex-direction: column;
       justify-content: flex-start;
