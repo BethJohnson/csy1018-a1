@@ -11,35 +11,15 @@ body {
     color: #CC6F7B;
 }
 
-@media (min-width: 37.5em) and (max-width: 56.25em) {
-  .nav-bar{
-    font-size: 0.5em;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-  }
-}
-
-@media (min-width: 30em) and (max-width: 37em;) {
-  .nav-bar {
-    font-size: 0.4em;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-  }
-}
-
 .nav-bar{
   background-color: #FFFFFF;
   color: #52215E ;
   font-weight: bold;
   font-size: 1.25em;
   justify-content: space-between;
-  padding: 1em;
-  margin: 3em;
+  padding: 0.5em;
+  margin: 2.5em;
   flex-wrap: wrap;
-
-
 }
 
 h1 {
@@ -82,7 +62,6 @@ div {
   display: flex;
   justify-content: flex-end;
   align-items:flex-start;
-  flex-wrap: wrap;
 }
 
 .footer{
@@ -92,5 +71,4 @@ div {
   display: flex;
   justify-content: flex-end;
   align-items: baseline;
-  flex-wrap: wrap;
 }
