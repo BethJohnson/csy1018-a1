@@ -23,7 +23,7 @@ body {
       flex-wrap: wrap;
   }
 
-  @media (min-width: 1em) and (max-width: 15em) {
+  @media (min-width: 37.5em) and (max-width: 56.25em) {
     .nav-bar{
       font-size: 0.7em;
       display: flex;
