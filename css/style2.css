@@ -33,7 +33,7 @@ body {
     }
   }
 
-  @media (min-width: 10em;) {
+  @media (max-width: 15em;) {
     .nav-bar{
       font-size: 0.4em;
       display: flex;
