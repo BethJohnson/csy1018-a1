@@ -1,4 +1,4 @@
-
+/* General Body Text */
 body {
     font-family:'Cormorant Garamond', serif;
     display: flex;
@@ -10,7 +10,7 @@ body {
     justify-content: center;
     color: #CC6F7B;
 }
-
+/* Navigation Bar Code */
 .nav-bar{
   background-color: #FFFFFF;
   color: #52215E ;
@@ -21,7 +21,7 @@ body {
   margin: 2.5em;
   flex-wrap: wrap;
 }
-
+/* Welcome Message Code */
 h1 {
   color: #CC6F7B;
   font-weight:bold;
@@ -33,7 +33,7 @@ h1 {
   background: #E7CEED;
   opacity: 0.9;
 }
-
+/* Animation Code */
 div {
   position: absolute;
   transform: translate(-50%, 50% );
@@ -54,7 +54,7 @@ div {
     transform: scale(1.5);
   }
 }
-
+/* Header Code */
 .header{
   color: #CC6F7B;
   font-weight:bold;
@@ -63,7 +63,7 @@ div {
   justify-content: flex-end;
   align-items:flex-start;
 }
-
+/* Footer Code */
 .footer{
   color: #CC6F7B;
   font-weight:bold;

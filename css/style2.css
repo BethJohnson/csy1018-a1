@@ -1,12 +1,11 @@
-
+/* General Body Code */
 body {
     font-family:'Cormorant Garamond', serif;
     margin-top: 1em;
     margin-bottom: 1em;
     color: #CC6F7B;
 }
-
-
+/* Navigation Bar Code */
 .nav-bar {
       color: rgb(82, 33, 94);
       font-weight: bold;
@@ -21,9 +20,9 @@ body {
       padding: 0.6em;
       margin: 4em;
       flex-wrap: wrap;
-  }
-
-  @media (min-width: 37.5em) and (max-width: 56.25em) {
+}
+/* Media Query Code */
+@media (min-width: 37.5em) and (max-width: 56.25em) {
     .nav-bar{
       font-size: 0.7em;
       display: flex;
@@ -31,9 +30,9 @@ body {
       justify-content: flex-start;
       color: #CC6F7B;
     }
-  }
+}
 
-  @media (max-width: 15em;) {
+@media (max-width: 15em;) {
     .nav-bar{
       font-size: 0.4em;
       display: flex;
@@ -41,8 +40,8 @@ body {
       justify-content: flex-start;
       color: #CC6F7B;
     }
-  }
-
+}
+/* CV Code */
 .personalinfo{
   color: #CC6F7B;
   font-size: 1.5em;
@@ -165,8 +164,7 @@ body {
   align-items: center;
   flex-wrap: wrap;
 }
-
-
+/* Contact Me Code */
 .contact{
   color: #CC6F7B;
   font-size: 1.5em;
@@ -282,7 +280,7 @@ textarea{
   justify-content: center;
   flex-wrap: wrap;
 }
-
+/* Biography Code */
 .diary{
   display: flex;
   justify-content: flex-start;
@@ -353,7 +351,7 @@ textarea{
   font-style: italic;
   flex-wrap: wrap;
 }
-
+/* Header Code */
 .header{
   color: #CC6F7B;
   font-weight:bold;
@@ -363,7 +361,7 @@ textarea{
   align-items: flex-start;
   flex-wrap: wrap;
 }
-
+/* Footer Code */
 .footer{
   color: #CC6F7B;
   font-weight:bold;
@@ -373,8 +371,7 @@ textarea{
   align-items: baseline;
   flex-wrap: wrap;
 }
-
-
+/* Home Link Code */
 .home{
   color: #CC6F7B;
   font-weight:bold;
